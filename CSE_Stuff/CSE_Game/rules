@@ -1,0 +1,18 @@
+Rock paper scissors: 
+    To play the game, type 'rock' , 'paper', or 'scissors' when prompted to. 
+    Then, you will see what the computer chose! 
+    If you want to play again, type 'yes', and type anything else to leave.
+
+Guessing game:
+    Players will guess a number from 1 to 1000. After guessing, the player will be told whether or not their choice was too high or low. Players also have 10 guesses to choose the random number. After using up all the guesses, you can type 'yes' to play again, and type anything else to leave.
+
+Snakes and ladders:
+    The player will be playing against a computer. To continue, hit the 'enter' key, and you will roll a die see what square you land on. If you hit a ladder, you will go to a higher square. If you hit a snake, you will go to a lower square.  The first player to reach square 100 wins!
+    
+
+Trivia game: 
+    You will be given five questions and each question will be from a different category.
+    By answering one question correct, you get one point. 
+    Any wrong answers will be 0 points.
+    If you can get all five correct then you are a trivia pro!
+    After finishing, to play again, type 'yes'. To exit type anything else.
